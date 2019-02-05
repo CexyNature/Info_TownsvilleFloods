@@ -69,7 +69,7 @@ Phone: **13 16 70**
 
 Phone: **(07) 4774 5111**
 
-- Other emergency numbers can be consulted in [Townsville City Council Emergency Contacts website](https://www.townsville.qld.gov.au/community-support/community-safety/disaster-management/during-a-disaster/emergency-contacts) and their official twitter account ![[https://twitter.com/tcc_news?lang=en]](images/icons/twitterico.png)
+- Other emergency numbers can be consulted in [Townsville City Council Emergency Contacts website](https://www.townsville.qld.gov.au/community-support/community-safety/disaster-management/during-a-disaster/emergency-contacts) and their official twitter account [![](images/icons/twittericon2.png)](https://twitter.com/tcc_news?lang=en)
 
 
 ## Financial assistance and aid
@@ -186,7 +186,6 @@ Hotline phone: **1800 064 800**
  Hit FM | FM 103.1 MHz
  Triple M | FM 102.3 FM
  
- -  
  
  ## Local Announcements
  
