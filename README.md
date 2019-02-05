@@ -36,7 +36,9 @@ The purpose of this repository is to compile and curate useful information for p
 - [Official donation channels](#Official-donation-channels)
 - [Other types of support](#Other-types-of-support)
 - [Information about natural disasters](#Information-about-natural-disasters)
-- [How to collaborate in this repo](#How-to-collaborate-in-this-repo)
+- [Local Announcements](#Local-Announcements)
+---
+- [How to collaborate or add information in this repo](#How-to-collaborate-or-add-information-in-this-repo)
 
 
 ## Emergency information and contact numbers
@@ -76,7 +78,7 @@ Financial assistance has been extended to all flood-affected people in Townsvill
 
 Community recovery hotline phone: **1800 173 349**
 
-Information for applying to grants can be found at the **[Community Recovery Queensland](https://www.communityrecovery.qld.gov.au/#/)** webiste, and you can apply for these grants using their app ([as indicated in their website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app), [Apple app](https://itunes.apple.com/au/app/selfrecovery/id942944983?mt=8), and [Android app](https://play.google.com/store/apps/details?id=communities.gov.au.disasterrecoverydroid&hl=en). *Please observe links to official apps are offered here for reference, please always use links from official [website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app)*) 
+Information for applying to grants can be found at the **[Community Recovery Queensland](https://www.communityrecovery.qld.gov.au/#/)** website, and you can apply for these grants using their app ([as indicated in their website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app), [Apple app](https://itunes.apple.com/au/app/selfrecovery/id942944983?mt=8), and [Android app](https://play.google.com/store/apps/details?id=communities.gov.au.disasterrecoverydroid&hl=en). *Please observe links to official apps are offered here for reference, please always use links from official [website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app)*) 
 
 Information about type of grants, eligibility and region/areas included can be found in the [North and Far North Queensland Monsoonal trough - 25 January to 2 February 2019 website](https://www.qld.gov.au/community/disasters-emergencies/queensland-disasters/fnq-monsoonal-trough) by the Queensland Government.
 
@@ -100,7 +102,7 @@ Disaster Recovery Allowance | Burdekin, Cook, Douglas, Townsville and Wujal Wuja
 Ex-gratia Disaster Recovery Allowance | as per scheme above but for New Zealand citizens holding a non-protected SCV (subclass 444) and non-residents
 
 
-Early on February 5th 2019 was reported (e.g. Power100 news [article](https://www.power100.com.au/news/local-news/150270-commonwealth-government-townsville-disaster-assistance), Townsville bulletin [article](https://www.townsvillebulletin.com.au/news/townsville/1000-disaster-relief-payment-available-to-every-townsville-flood-victim-from-tuesday/news-story/a715597c5462031f43f3d8d0ab37664b)) that the Commonwealth Government had activated a Disaster Recovery Payment for people affected by the flooding. However, the [official link](https://www.disasterassist.gov.au/Documents/Fact-sheets/Disaster-Recovery-Payment-Factsheet.pdf) to this information is not working (producing a *401 UNAUTHORIZED* error) as per *05_FEB_2019_18:03*.
+Early on February 5th 2019 was reported (e.g. Power100 news [article](https://www.power100.com.au/news/local-news/150270-commonwealth-government-townsville-disaster-assistance), Townsville bulletin [article](https://www.townsvillebulletin.com.au/news/townsville/1000-disaster-relief-payment-available-to-every-townsville-flood-victim-from-tuesday/news-story/a715597c5462031f43f3d8d0ab37664b)) that the Commonwealth Government had activated a Disaster Recovery Payment for people affected by the flooding. <s>However, the [official link](https://www.disasterassist.gov.au/Documents/Fact-sheets/Disaster-Recovery-Payment-Factsheet.pdf) to this information is not working (producing a *401 UNAUTHORIZED* error) as per *05_FEB_2019_18:03*.</s>
 Please see below a cached image of this document for reference:
 
 ![](images/FedGov_Disaster_recovery_payment_cached.png)
@@ -120,6 +122,8 @@ Email: **tspn@selectability.com.au**
 ![](images/TSPN_tweet_img.jpeg)
 
 Information above was shared by TSPN as a [message](https://twitter.com/TownsvilleSPN/status/1092304820889739264) on twitter
+
+
 
 ## Official donation channels
 
@@ -147,6 +151,9 @@ Hotline phone: **1800 064 800**
 
 "Indigenous Business Australia (IBA), the former Aboriginal and Torres Strait Islander Commercial Development Corporation (CDC) is an Australian Government statutory authority set up to assist and enhance Aboriginal and Torres Strait Islander self-management and economic self-sufficiency." Taken from Australian Government [webiste](https://www.australia.gov.au/directories/australia/iba) 
 
+
+
+
 ## Information about natural disasters
 
  - [Natural disaster fact sheet by Residential Tenancy Authority (RTA)](https://www.rta.qld.gov.au/Forms-and-publications/Fact-sheets/General-tenancy-fact-sheets/Natural-disasters-fact-sheet)
@@ -157,8 +164,28 @@ Hotline phone: **1800 064 800**
  Reporting you are safe / Looking for family and friends
  
  
+ ## Local Announcements
  
- ## How to collaborate in this repo
+ - Townsville City Council
+ 
+ **February 5th, 2019:** Cleaning, garbage and dumping:
+ 
+ "Council provides free dumping to help with flood clean up
+Townsville City Council is providing free dumping of domestic waste to help the city clean up and recover from the worst floods in memory." [Source](https://twitter.com/TCC_News/status/1092648570606346241)
+
+"Residents can dump all domestic waste at Council’s facilities free of charge until the end of the unprecedented weather event. 
+Townsville Water and Waste Committee Chair Russ Cook said Council has introduced free dumping for the whole community to help the flood clean up." [Source](https://twitter.com/TCC_News/status/1092648621336453120)
+ 
+ - James Cook University
+ 
+ **February 5th, 2019:** Extreme weather and Townsville campus status
+ 
+ "Because of the extreme weather in Townsville, JCU’s Townsville (Douglas) Campus remains partially closed on Wednesday 6th February. No teaching will be occurring on this day, and only essential staff should attend the campus on Wednesday." Information taken from [message](https://twitter.com/jcu/status/1092696092611731456) in the official JCU [twitter account](https://twitter.com/jcu?lang=en). 
+ 
+ More information about JCU courses, and advice to students arriving to the Townsville campus could be found in this [link](https://www.jcu.edu.au/news/releases/2019/january/extreme-weather-townsville).
+ 
+ ---
+ ## How to collaborate or add information in this repo
  
  If you have or find official (or relevant) information that might be pertinent for this repo please share by following one of these steps:
  
