@@ -1,4 +1,29 @@
-A repository containing information for people affected during Townsville floods 2019
+<!-- Created by Cesar Herrera -->
+
+<!-- Display Twitter and GitHub accounts icons and links -->
+
+[![alt text][1.2]][1]
+[![alt text][2.2]][2]
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: images/icons/twitterico.png (icon with padding)
+[2.1]: images/icons/githubicon.png (icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: images/icons/twittericon2.png (icon without padding)
+[2.2]: images/icons/githubicon2.png (github icon without padding)
+
+<!-- links to accounts -->
+
+[1]: http://www.twitter.com/CexyNature
+[2]: http://www.github.com/CexyNature
+
+<!-- End -->
+A repository containing information for people affected (or wanted to support others) during Townsville floods 2019
 ===============
 
 The purpose of this repository is compiled and curated useful information for people requiring financial aid, counselling support, or for people interested in donating their time, money and/or services to the communities affected. This is not an official information channel, but I will do my best to only include official information.
@@ -13,7 +38,7 @@ Phone: **000** (*from mobile phones people can also use number* **112**)
 
 Phone: **13 48 10**
 
-This website provides updated information about: emergency news, weasther warnings, road conditions, power outages and more.
+This website provides updated information about: emergency news, weather warnings, road conditions, power outages and more.
 
 ![](images/TSV_ED_at_20190205_165416.png)
 
@@ -36,7 +61,7 @@ Phone: **(07) 4774 5111**
 
 - Queensland Government
 
-Financial assistance has been extended to all flood-affected people in Townsville as per communicatio og Queensland Acting Minister for Disability Services and Seniors The Honourable Shannon Fentiman ([press release](https://register.redcross.org.au))
+Financial assistance has been extended to all flood-affected people in Townsville as per communication of Queensland Acting Minister for Disability Services and Seniors The Honourable Shannon Fentiman ([press release](https://register.redcross.org.au))
 
 Community recovery hotline phone: **1800 173 349**
 
