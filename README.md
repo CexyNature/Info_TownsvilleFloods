@@ -80,7 +80,7 @@ Information for applying to grants can be found at the **[Community Recovery Que
 
 Information about type of grants, eligibility and region/areas included can be found in the [North and Far North Queensland Monsoonal trough - 25 January to 2 February 2019 website](https://www.qld.gov.au/community/disasters-emergencies/queensland-disasters/fnq-monsoonal-trough) by the Queensland Government.
 
-Grant Name | Is this grant asset tested? | Amount ($) | Does have eligibility criteria? | Webiste
+Scheme Name | Is this scheme asset tested? | Amount ($) | Does have eligibility criteria? | Webiste
 :--- | :---:| :---: | :--- | :---
 Emergency hardship assistance | No | 180 per person (up to 900 for a family) | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/immediate-hardship-assistance)
 Essential household contents grant | Yes, income test | 1765 per single adult (up to 5300 for couples or families) | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/essential-household-content-grant)
@@ -88,11 +88,17 @@ Structural assistance grant | Yes, income test | up to 10995 per single adult (u
 Essential services safety and reconnection grant | Yes, income test | Inspection up to 200. Repair up to 4200 | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/essential-services-safety-reconnection-grant)
 
 
-
-
-
-
 - Federal Government
+
+***Update***: The Australian Government through the Department of Human Services provides help for people adversely affected by the Far and North Queensland floods (February 2019). Four schemes are available:
+
+Scheme Name | Local government areas | Deadline | Amount ($) | Does have eligibility criteria? | Webiste
+:--- | :---:| :---: | :---: | :--- | :---
+Australian Government Disaster Recovery Payment | Burdekin, Cook, Douglas, Townsville and Wujal Wujal | August 3rd 2019 | 1000 per adult, and 400 for each child under 16 years of age (one-off payment) | Yes | Yes, [link](https://www.humanservices.gov.au/individuals/services/centrelink/far-north-queensland-floods-february-2019-australian-government-disaster-recovery-payment)
+Ex-gratia Disaster Recovery Payment | as per scheme above but for New Zealand citizens holding a non-protected SCV (subclass 444) and non-residents 
+Disaster Recovery Allowance | Burdekin, Cook, Douglas, Townsville and Wujal Wujal | August 3rd 2019 | variable determined by your age and income (among 576.17 and 1591.75 for a maximun of 13 weeks) | Yes | Yes, [link](https://www.humanservices.gov.au/individuals/services/centrelink/far-north-queensland-floods-february-2019-disaster-recovery-allowance)
+Ex-gratia Disaster Recovery Allowance | as per scheme above but for New Zealand citizens holding a non-protected SCV (subclass 444) and non-residents
+
 
 Early on February 5th 2019 was reported (e.g. Power100 news [article](https://www.power100.com.au/news/local-news/150270-commonwealth-government-townsville-disaster-assistance), Townsville bulletin [article](https://www.townsvillebulletin.com.au/news/townsville/1000-disaster-relief-payment-available-to-every-townsville-flood-victim-from-tuesday/news-story/a715597c5462031f43f3d8d0ab37664b)) that the Commonwealth Government had activated a Disaster Recovery Payment for people affected by the flooding. However, the [official link](https://www.disasterassist.gov.au/Documents/Fact-sheets/Disaster-Recovery-Payment-Factsheet.pdf) to this information is not working (producing a *401 UNAUTHORIZED* error) as per *05_FEB_2019_18:03*.
 Please see below a cached image of this document for reference:
