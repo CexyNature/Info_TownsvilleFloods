@@ -123,6 +123,12 @@ Email: **tspn@selectability.com.au**
 
 Information above was shared by TSPN as a [message](https://twitter.com/TownsvilleSPN/status/1092304820889739264) on twitter
 
+- [Deparment of Veteran's Affairs](http://www.dva.gov.au)
+
+Phone: **1800 011 046** (24/7)
+
+[![](images/dva_counselling.png)](https://twitter.com/DVAAus/status/1092623444598910976)
+
 
 
 ## Official donation channels
@@ -140,6 +146,8 @@ Check updates and special requests in their official [twitter account ](https://
 ![](images/Red_cross_info_and_requests.jpeg)
 
 Check updates and special request in their official [twitter account](https://twitter.com/RedCrossAU?lang=en)
+
+
 
 ## Other types of support
 
