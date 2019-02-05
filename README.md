@@ -37,7 +37,7 @@ If you would like to include information please follow instructions at the botto
 - [Counselling support](#Counselling-support)
 - [Official donation channels](#Official-donation-channels)
 - [Other types of support](#Other-types-of-support)
-- [Information about natural disasters](#Information-about-natural-disasters)
+- [Information about how to deal with natural disasters](#Information-about-how-to-deal-with-natural-disasters)
 - [Local Announcements](#Local-Announcements)
 ---
 - [How to collaborate or add information in this repo](#How-to-collaborate-or-add-information-in-this-repo)
@@ -164,14 +164,21 @@ Hotline phone: **1800 064 800**
 
 
 
-## Information about natural disasters
+## Information about how to deal with natural disasters
 
  - [Natural disaster fact sheet by Residential Tenancy Authority (RTA)](https://www.rta.qld.gov.au/Forms-and-publications/Fact-sheets/General-tenancy-fact-sheets/Natural-disasters-fact-sheet)
  
+ Information, advice and regulations about rental properties that become unliveable after a natural disaster.
  A copy of the QLD RTA fact sheet can be find in this [repo](documents/rta-fact-sheet_important-renting-information-for-natural-disaster-victims.pdf)
  
  - [Register. Find. Reunite by Australian Red Cross](https://register.redcross.org.au)
  Reporting you are safe / Looking for family and friends
+ 
+ - [Flood Clean-up Tips](https://www.facebook.com/ABCnorthqld/photos/a.337209008308/10156063108573309/?type=3) by ABC North Queensland
+ 
+ [![](images/ABC_NQ_cleanuptips.png)](https://www.facebook.com/ABCnorthqld/photos/a.337209008308/10156063108573309/?type=3)
+ 
+ [Source](https://www.facebook.com/ABCnorthqld/photos/a.337209008308/10156063108573309/?type=3)
  
  - Local radio stations provide important information in the event of a emergency. Townsville's local stations are:
  
@@ -211,6 +218,15 @@ Townsville Water and Waste Committee Chair Russ Cook said Council has introduced
  
  A list of schools and other educational centers closures could be find in the Queensland Department of Education [website](http://closures.det.qld.gov.au)
  
+ - Sunbus Townsville
+ 
+ **February 6th, 2019 06:29 AM:** Townsville weather event and latest bus information
+ 
+ Information about school services and public services.
+ 
+[![](images/Sunbus_06FEB2018.png)](http://www.sunbus.com.au/townsville-weather-event-latest-bus-information/)
+
+[Source](http://www.sunbus.com.au/townsville-weather-event-latest-bus-information/)
  
  ---
  ## How to collaborate or add information in this repo
