@@ -61,11 +61,11 @@ Phone: **(07) 4774 5111**
 
 - Queensland Government
 
-Financial assistance has been extended to all flood-affected people in Townsville as per communication of Queensland Acting Minister for Disability Services and Seniors The Honourable Shannon Fentiman ([press release](https://register.redcross.org.au))
+Financial assistance has been extended to all flood-affected people in Townsville as per communication of Queensland Acting Minister for Disability Services and Seniors The Honourable Shannon Fentiman ([press release](http://statements.cabinet.qld.gov.au/Statement/2019/2/4/financial-assistance-extended-to-all-floodaffected-people-in-townsville))
 
 Community recovery hotline phone: **1800 173 349**
 
-Information for applying to grants can be found at the **[Community Recovery Queensland](https://www.communityrecovery.qld.gov.au/#/)** webiste, and you can apply for these grants using their app ([as per website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app), [Apple app](https://itunes.apple.com/au/app/selfrecovery/id942944983?mt=8), and [Android app](https://play.google.com/store/apps/details?id=communities.gov.au.disasterrecoverydroid&hl=en). *Please observe links to official apps are offered here for reference, please always use links from official [website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app)*) 
+Information for applying to grants can be found at the **[Community Recovery Queensland](https://www.communityrecovery.qld.gov.au/#/)** webiste, and you can apply for these grants using their app ([as indicated in their website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app), [Apple app](https://itunes.apple.com/au/app/selfrecovery/id942944983?mt=8), and [Android app](https://play.google.com/store/apps/details?id=communities.gov.au.disasterrecoverydroid&hl=en). *Please observe links to official apps are offered here for reference, please always use links from official [website](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/self-recovery-app)*) 
 
 Information about type of grants, eligibility and region/areas included can be found in the [North and Far North Queensland Monsoonal trough - 25 January to 2 February 2019 website](https://www.qld.gov.au/community/disasters-emergencies/queensland-disasters/fnq-monsoonal-trough) by the Queensland Government.
 
@@ -80,17 +80,25 @@ Extracted piece of Townsville Bulletin [report](https://www.townsvillebulletin.c
 
 ![](images/TsvBulletin_extract.png)
 
-## Counselling
+## Counselling support
 
-There is not information in this regards
+- [Townsville Suicide Prevention Network (TSPN)](http://tspn.org.au)
+
+Phone: **07 4725 3664**
+
+Email: **tspn@selectability.com.au**
+
+![](images/TSPN_tweet_img.jpeg)
+
+Information above was shared by TSPN as a [message](https://twitter.com/TownsvilleSPN/status/1092304820889739264) on twitter
 
 ## Official donations
 
 - [givit.org.au](http://givit.org.au/disasters)
 
-Check updates and special requests in their official twitter account ![https://twitter.com/GIVIT_AUS](images/icons/twitterico.png)
+Check updates and special requests in their official [twitter account ](https://twitter.com/GIVIT_AUS)
 
-- [GIVIT urgent requests for Townsville]()
+- [GIVIT urgent requests for Townsville](https://twitter.com/GIVIT_AUS/status/1092621115678212097)
 
 ![](images/givit_urgent_requests.jpeg)
 
@@ -98,7 +106,17 @@ Check updates and special requests in their official twitter account ![https://t
 
 ![](images/Red_cross_info_and_requests.jpeg)
 
-Check updates and special request in their official twitter account ![https://twitter.com/RedCrossAU?lang=en](images/icons/twitterico.png)
+Check updates and special request in their official [twitter account](https://twitter.com/RedCrossAU?lang=en)
+
+## Other types of support
+
+- [Indigenous Business Australia](http://www.iba.gov.au)
+
+Hotline phone: **1800 064 800**
+
+![](images/IBA_message.png)
+
+"Indigenous Business Australia (IBA), the former Aboriginal and Torres Strait Islander Commercial Development Corporation (CDC) is an Australian Government statutory authority set up to assist and enhance Aboriginal and Torres Strait Islander self-management and economic self-sufficiency." Taken from Australian Government [webiste](https://www.australia.gov.au/directories/australia/iba) 
 
 ## Natural disaster information
 
@@ -111,9 +129,9 @@ Check updates and special request in their official twitter account ![https://tw
  
  ## How to collaborate in this repo:
  
- If you have or found official (or relevant) information that might be pertinent for this repo please share by following one of these steps:
+ If you have or find official (or relevant) information that might be pertinent for this repo please share by following one of these steps:
  
- - Please share any relevant information in Twitter and tag @CexyNature
+ - Please share any relevant information in Twitter and tag [@CexyNature](http://www.twitter.com/CexyNature)
  
  - Please send an email to herrera.ce **at** gmail.com
  
