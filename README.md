@@ -23,10 +23,10 @@
 [2]: http://www.github.com/CexyNature
 
 <!-- End -->
-A repository containing information for people affected (or wanted to support others) during Townsville floods 2019
+A repository containing information for people affected or people wanted to support those affected during Townsville floods 2019
 ===============
 
-The purpose of this repository is compiled and curated useful information for people requiring financial aid, counselling support, or for people interested in donating their time, money and/or services to the communities affected. This is not an official information channel, but I will do my best to only include official information.
+The purpose of this repository is to compile and curate useful information for people requiring financial aid, counselling support, or for people interested in donating their time, money and/or services to the communities affected. **This is not an official information channel**, but I will do my best to only include official information.
 
 ## Emergency information and numbers
 
