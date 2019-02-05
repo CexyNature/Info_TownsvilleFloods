@@ -28,7 +28,18 @@ A repository containing information for people affected or people wanted to supp
 
 The purpose of this repository is to compile and curate useful information for people requiring financial aid, counselling support, or for people interested in donating their time, money and/or services to the communities affected. **This is not an official information channel**, but I will do my best to only include official information.
 
-## Emergency information and numbers
+# List of content:
+
+- [Emergency information and contact numbers](#Emergency-information-and-contact-numbers)
+- [Financial assitance and aid](#Financial-assistance-and-aid)
+- [Counselling support](#Counselling-support)
+- [Official donation channels](#Official-donation-channels)
+- [Other types of support](#Other-types-of-support)
+- [Information about natural disasters](#Information-about-natural-disasters)
+- [How to collaborate in this repo](#How-to-collaborate-in-this-repo)
+
+
+## Emergency information and contact numbers
 
 - Australia wide primary emergency number (police, ambulance, fire, fallen powerlines):
 
@@ -69,6 +80,18 @@ Information for applying to grants can be found at the **[Community Recovery Que
 
 Information about type of grants, eligibility and region/areas included can be found in the [North and Far North Queensland Monsoonal trough - 25 January to 2 February 2019 website](https://www.qld.gov.au/community/disasters-emergencies/queensland-disasters/fnq-monsoonal-trough) by the Queensland Government.
 
+Grant Name | Is this grant asset tested? | Amount ($) | Does have eligibility criteria? | Webiste
+:--- | :---:| :---: | :--- | :---
+Emergency hardship assistance | No | 180 per person (up to 900 for a family) | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/immediate-hardship-assistance)
+Essential household contents grant | Yes, income test | 1765 per single adult (up to 5300 for couples or families) | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/essential-household-content-grant)
+Structural assistance grant | Yes, income test | up to 10995 per single adult (up to 14685 for couples or families) | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/structural-assistance-grant)
+Essential services safety and reconnection grant | Yes, income test | Inspection up to 200. Repair up to 4200 | Yes | Yes, [link](https://www.qld.gov.au/community/disasters-emergencies/financial-assistance/essential-services-safety-reconnection-grant)
+
+
+
+
+
+
 - Federal Government
 
 Early on February 5th 2019 was reported (e.g. Power100 news [article](https://www.power100.com.au/news/local-news/150270-commonwealth-government-townsville-disaster-assistance), Townsville bulletin [article](https://www.townsvillebulletin.com.au/news/townsville/1000-disaster-relief-payment-available-to-every-townsville-flood-victim-from-tuesday/news-story/a715597c5462031f43f3d8d0ab37664b)) that the Commonwealth Government had activated a Disaster Recovery Payment for people affected by the flooding. However, the [official link](https://www.disasterassist.gov.au/Documents/Fact-sheets/Disaster-Recovery-Payment-Factsheet.pdf) to this information is not working (producing a *401 UNAUTHORIZED* error) as per *05_FEB_2019_18:03*.
@@ -92,7 +115,7 @@ Email: **tspn@selectability.com.au**
 
 Information above was shared by TSPN as a [message](https://twitter.com/TownsvilleSPN/status/1092304820889739264) on twitter
 
-## Official donations
+## Official donation channels
 
 - [givit.org.au](http://givit.org.au/disasters)
 
@@ -118,7 +141,7 @@ Hotline phone: **1800 064 800**
 
 "Indigenous Business Australia (IBA), the former Aboriginal and Torres Strait Islander Commercial Development Corporation (CDC) is an Australian Government statutory authority set up to assist and enhance Aboriginal and Torres Strait Islander self-management and economic self-sufficiency." Taken from Australian Government [webiste](https://www.australia.gov.au/directories/australia/iba) 
 
-## Natural disaster information
+## Information about natural disasters
 
  - [Natural disaster fact sheet by Residential Tenancy Authority (RTA)](https://www.rta.qld.gov.au/Forms-and-publications/Fact-sheets/General-tenancy-fact-sheets/Natural-disasters-fact-sheet)
  
@@ -127,7 +150,9 @@ Hotline phone: **1800 064 800**
  - [Register. Find. Reunite by Australian Red Cross](https://register.redcross.org.au)
  Reporting you are safe / Looking for family and friends
  
- ## How to collaborate in this repo:
+ 
+ 
+ ## How to collaborate in this repo
  
  If you have or find official (or relevant) information that might be pertinent for this repo please share by following one of these steps:
  
@@ -142,4 +167,4 @@ Hotline phone: **1800 064 800**
     3. Edit, commit and push
     4. Create a Pull request
  
- More guidelines in this [article](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+*Some information about submitting pull request can be found in this [article](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)*
