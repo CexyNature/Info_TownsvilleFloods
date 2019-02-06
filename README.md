@@ -199,13 +199,13 @@ Hotline phone: **1800 064 800**
  
  - Advice - Rebuilding after a natural disaster by [Queensland Building and Construction Comission](https://www.qbcc.qld.gov.au/home-maintenance/rebuilding-after-natural-disaster)
  
- General and technical advice and information for a wide range of rebuilding issues.
+ General and technical advice and information for a wide range of rebuilding issues. Please click image below to visit the official website.
  
  [![](images/qbcc_advice.png)](https://www.qbcc.qld.gov.au/home-maintenance/rebuilding-after-natural-disaster)
  
  - Advice - Returning to affected buildings, drinking water, food safety, cleaning up, Managing waste, fallen trees and Insurance claim preparation by [Queensland Goverment](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/cleaning-up/returning-to-buildings)
 
-Please click image to visit the official website.
+Please click image below to visit the official website.
 [![](images/qldgov_advice.png)](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/cleaning-up/returning-to-buildings)
  
  ## Local Announcements
@@ -221,6 +221,10 @@ Townsville City Council is providing free dumping of domestic waste to help the 
 Townsville Water and Waste Committee Chair Russ Cook said Council has introduced free dumping for the whole community to help the flood clean up." [Source](https://twitter.com/TCC_News/status/1092648621336453120)
  
  - James Cook University
+ 
+ **February 6th, 2019:** Update in Townsville campus
+ 
+ "Because of the extreme weather in Townsville, JCU’s Townsville (Douglas) Campus remains partially closed on Wednesday 6th February, Thursday 7th February, and Friday 8th February. Please see below regarding teaching and access to services on Campus. Return to work is occurring for priority services and functions. We are working towards a full opening of the Douglas campus by Monday, 11th February." Source JCU Chief of Staff, for more information visit [JCU website](https://www.jcu.edu.au/news/releases/2019/january/extreme-weather-townsville)
  
  **February 5th, 2019:** Extreme weather and Townsville campus status
  
