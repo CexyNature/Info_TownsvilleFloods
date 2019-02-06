@@ -69,6 +69,8 @@ Phone: **13 16 70**
 
 Phone: **(07) 4774 5111**
 
+- [Queensland road, hazard and traffic conditions state wise](https://qldtraffic.qld.gov.au)
+
 - Other emergency numbers can be consulted in [Townsville City Council Emergency Contacts website](https://www.townsville.qld.gov.au/community-support/community-safety/disaster-management/during-a-disaster/emergency-contacts) and their official twitter account [![](images/icons/twittericon2.png)](https://twitter.com/tcc_news?lang=en)
 
 
@@ -94,11 +96,13 @@ Essential services safety and reconnection grant | Yes, income test | Inspection
 
 - Federal Government
 
-***Update***: The Australian Government through the Department of Human Services provides help for people adversely affected by the Far and North Queensland floods (February 2019). Four schemes are available:
+***Update***: As per [message](https://twitter.com/ScottMorrisonMP/status/1092913249639575553) of PM Scott Morrison the Disaster relief scheme eligibility has been changed which makes easier to people affected by the flooding to successfully request this scheme. [Source](https://www.townsvillebulletin.com.au/news/mixed-messages-about-disaster-relief-payments-spark-worry-among-flood-victims/news-story/10c272adf88264fbe2d58b5586fb8530)
+
+The Australian Government through the Department of Human Services provides help for people adversely affected by the Far and North Queensland floods (February 2019). Four schemes are available:
 
 Scheme Name | Local government areas | Deadline | Amount ($) | Does have eligibility criteria? | Website
 :--- | :---:| :---: | :---: | :--- | :---
-Australian Government Disaster Recovery Payment | Burdekin, Cook, Douglas, Townsville and Wujal Wujal | August 3rd 2019 | 1000 per adult, and 400 for each child under 16 years of age (one-off payment) | Yes | Yes, [link](https://www.humanservices.gov.au/individuals/services/centrelink/far-north-queensland-floods-february-2019-australian-government-disaster-recovery-payment)
+Australian Government Disaster Recovery Payment | Burdekin, Cook, Douglas, Townsville and Wujal Wujal | August 3rd 2019 | 1000 per adult, and 400 for each child under 16 years of age (one-off payment) | **UPDATE** Yes, but these have been relaxed | Yes, [link](https://www.humanservices.gov.au/individuals/services/centrelink/far-north-queensland-floods-february-2019-australian-government-disaster-recovery-payment)
 Ex-gratia Disaster Recovery Payment | as per scheme above but for New Zealand citizens holding a non-protected SCV (subclass 444) and non-residents 
 Disaster Recovery Allowance | Burdekin, Cook, Douglas, Townsville and Wujal Wujal | August 3rd 2019 | variable determined by your age and income (among 576.17 and 1591.75 for a maximun of 13 weeks) | Yes | Yes, [link](https://www.humanservices.gov.au/individuals/services/centrelink/far-north-queensland-floods-february-2019-disaster-recovery-allowance)
 Ex-gratia Disaster Recovery Allowance | as per scheme above but for New Zealand citizens holding a non-protected SCV (subclass 444) and non-residents
