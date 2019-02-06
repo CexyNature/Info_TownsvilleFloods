@@ -197,6 +197,16 @@ Hotline phone: **1800 064 800**
  Hit FM | FM 103.1 MHz
  Triple M | FM 102.3 FM
  
+ - Advice - Rebuilding after a natural disaster by [Queensland Building and Construction Comission](https://www.qbcc.qld.gov.au/home-maintenance/rebuilding-after-natural-disaster)
+ 
+ General and technical advice and information for a wide range of rebuilding issues.
+ 
+ [![](images/qbcc_advice.png)](https://www.qbcc.qld.gov.au/home-maintenance/rebuilding-after-natural-disaster)
+ 
+ - Advice - Returning to affected buildings, drinking water, food safety, cleaning up, Managing waste, fallen trees and Insurance claim preparation by [Queensland Goverment](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/cleaning-up/returning-to-buildings)
+
+Please click image to visit the official website.
+[![](images/qldgov_advice.png)](https://www.qld.gov.au/community/disasters-emergencies/recovery-after-disaster/cleaning-up/returning-to-buildings)
  
  ## Local Announcements
  
