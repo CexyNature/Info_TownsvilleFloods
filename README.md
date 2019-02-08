@@ -117,6 +117,10 @@ Extracted piece of Townsville Bulletin [report](https://www.townsvillebulletin.c
 
 ![](images/TsvBulletin_extract.png)
 
+- Financial assistance options for people affected by floods: [Source](https://www.star1063.com.au/big-wet-recovery/big-wet-recovery/136902-a-number-of-financial-assistance-options-are-available-to-those-affected-by-the-floods) local station **Star1063**.
+
+[![](images/s1063_finanlcial_assistance.png)](https://www.star1063.com.au/big-wet-recovery/big-wet-recovery/136902-a-number-of-financial-assistance-options-are-available-to-those-affected-by-the-floods) 
+
 ## Counselling support
 
 - [Townsville Suicide Prevention Network (TSPN)](http://tspn.org.au)
@@ -153,7 +157,15 @@ Check updates and special requests in their official [twitter account ](https://
 
 Check updates and special request in their official [twitter account](https://twitter.com/RedCrossAU?lang=en)
 
+- [Good2Give](https://good2give.ngo): Good2Give's Woekplace Giving platform. Donate [here](https://good2give.ngo/sign-in/?utm_medium=Social&utm_source=Twitter&utm_campaign=TownsvilleFlood)
 
+[![](images/Good2Give.png)](https://twitter.com/Good2GiveNGO/status/1093721188273139712)
+
+
+- Volunteering:
+
+Please observe the correct link to register is [this one](https://register.emergencyvolunteering.com.au) as per message [here](https://twitter.com/edukasol/status/1093774038311219200)
+[![](images/TCC_volunteering.png)](https://twitter.com/TCC_News/status/1093744430673084416)
 
 ## Other types of support
 
@@ -212,7 +224,11 @@ Please click image below to visit the official website.
  
  - Townsville City Council
  
- **February 5th, 2019:** Cleaning, garbage and dumping:
+**February 8th, 2019:** Council rates payment will be delayed
+
+[![](images/TCC_rates_update.png)](https://twitter.com/TCC_News/status/1093691483905904640)
+ 
+**February 5th, 2019:** Cleaning, garbage and dumping:
  
  "Council provides free dumping to help with flood clean up
 Townsville City Council is providing free dumping of domestic waste to help the city clean up and recover from the worst floods in memory." [Source](https://twitter.com/TCC_News/status/1092648570606346241)
@@ -221,6 +237,10 @@ Townsville City Council is providing free dumping of domestic waste to help the 
 Townsville Water and Waste Committee Chair Russ Cook said Council has introduced free dumping for the whole community to help the flood clean up." [Source](https://twitter.com/TCC_News/status/1092648621336453120)
  
  - James Cook University
+ 
+ **February 8th, 2019:** Townsville Douglas campus will re-open on Monday 11th February. More info at [jcu website](https://www.jcu.edu.au/news/releases/2019/january/extreme-weather-townsville)
+ 
+ [![](images/jcu_campus_open.png)](https://twitter.com/jcu/status/1093753921594507264)
  
  **February 6th, 2019:** Update in Townsville campus
  
