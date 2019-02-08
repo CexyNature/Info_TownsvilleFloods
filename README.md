@@ -157,7 +157,7 @@ Check updates and special requests in their official [twitter account ](https://
 
 Check updates and special request in their official [twitter account](https://twitter.com/RedCrossAU?lang=en)
 
-- [Good2Give](https://good2give.ngo): Good2Give's Woekplace Giving platform. Donate [here](https://good2give.ngo/sign-in/?utm_medium=Social&utm_source=Twitter&utm_campaign=TownsvilleFlood)
+- [Good2Give](https://good2give.ngo): Good2Give's Workplace Giving platform. Donate [here](https://good2give.ngo/sign-in/?utm_medium=Social&utm_source=Twitter&utm_campaign=TownsvilleFlood)
 
 [![](images/Good2Give.png)](https://twitter.com/Good2GiveNGO/status/1093721188273139712)
 
