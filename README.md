@@ -96,7 +96,7 @@ Essential services safety and reconnection grant | Yes, income test | Inspection
 
 - Federal Government
 
-***Update***: As per [message](https://twitter.com/ScottMorrisonMP/status/1092913249639575553) of PM Scott Morrison the Disaster relief scheme eligibility has been changed which makes easier to people affected by the flooding to successfully request this scheme. [Source](https://www.townsvillebulletin.com.au/news/mixed-messages-about-disaster-relief-payments-spark-worry-among-flood-victims/news-story/10c272adf88264fbe2d58b5586fb8530)
+As per [message](https://twitter.com/ScottMorrisonMP/status/1092913249639575553) of PM Scott Morrison the Disaster relief scheme eligibility has been changed which makes easier to people affected by the flooding to successfully request this scheme. [Source](https://www.townsvillebulletin.com.au/news/mixed-messages-about-disaster-relief-payments-spark-worry-among-flood-victims/news-story/10c272adf88264fbe2d58b5586fb8530)
 
 The Australian Government through the Department of Human Services provides help for people adversely affected by the Far and North Queensland floods (February 2019). Four schemes are available:
 
@@ -116,6 +116,15 @@ Please see below a cached image of this document for reference:
 Extracted piece of Townsville Bulletin [report](https://www.townsvillebulletin.com.au/news/townsville/1000-disaster-relief-payment-available-to-every-townsville-flood-victim-from-tuesday/news-story/a715597c5462031f43f3d8d0ab37664b)
 
 ![](images/TsvBulletin_extract.png)
+
+
+- James Cook University
+
+JCU is offering $500 flood hardship grants for student who sufferred lossed during the recent flooding in Townsville. Click the image below for more info.
+
+[![](images/JCU_financial_aid.PNG)](https://www.jcu.edu.au/news/releases/2019/february/$500-flood-hardship-grants-for-students)
+
+
 
 - Financial assistance options for people affected by floods: [Source](https://www.star1063.com.au/big-wet-recovery/big-wet-recovery/136902-a-number-of-financial-assistance-options-are-available-to-those-affected-by-the-floods) local station **Star1063**.
 
