@@ -120,7 +120,7 @@ Extracted piece of Townsville Bulletin [report](https://www.townsvillebulletin.c
 
 - James Cook University
 
-JCU is offering $500 flood hardship grants for student who sufferred lossed during the recent flooding in Townsville. Click the image below for more info.
+JCU is offering $500 flood hardship grants for student who suffered losses during the recent flooding in Townsville. Click the image below for more info (it will take you to JCU official media release).
 
 [![](images/JCU_financial_aid.PNG)](https://www.jcu.edu.au/news/releases/2019/february/$500-flood-hardship-grants-for-students)
 
